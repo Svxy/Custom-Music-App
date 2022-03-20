@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArtist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Artist>
+    <Name>Juice Mixes</Name>
+    <Songs>
+      <Song>
+        <Artist>Juice Mixes</Artist>
+        <Title>Juice WRLD Mix 1</Title>
+        <Mp3Path>C:\Users\Aidan\Music\music\Juice Mix v2.mp3</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\juice4.jpg</ArtworkPath>
+      </Song>
+      <Song>
+        <Artist>Juice Mixes</Artist>
+        <Title>Juice WRLD Mix 2</Title>
+        <Mp3Path>C:\Users\Aidan\Music\music\Juice Mix v5.mp3</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\juice4.jpg</ArtworkPath>
+      </Song>
+    </Songs>
+  </Artist>
+  <Artist>
+    <Name>Juice WRLD</Name>
+    <Songs>
+      <Song>
+        <Artist>Juice WRLD</Artist>
+        <Title>GoPro</Title>
+        <Mp3Path>C:\Users\Aidan\Music\music\juice\GoPro.mp3</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\juice999.jpg</ArtworkPath>
+      </Song>
+      <Song>
+        <Artist>Juice WRLD</Artist>
+        <Title>This Shit Too Easy</Title>
+        <Mp3Path>C:\Users\Aidan\Music\Juice WRLD This Shit Too Easy.wav</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\juice999.jpg</ArtworkPath>
+      </Song>
+    </Songs>
+  </Artist>
+  <Artist>
+    <Name>Gangy Type Shit</Name>
+    <Songs>
+      <Song>
+        <Artist>Gangy Type Shit</Artist>
+        <Title>Pushin P</Title>
+        <Mp3Path>C:\Users\Aidan\Music\music\pushjin P.mp3</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\gang.gif</ArtworkPath>
+      </Song>
+      <Song>
+        <Artist>Gangy Type Shit</Artist>
+        <Title>TKO Anthem</Title>
+        <Mp3Path>C:\Users\Aidan\Music\music\Y2Mate.is - NLE Choppa x Goon BIG4 x Tevooo3 - TKO Anthem (Official Music Video)-MnQLCPZ2sbI-160k-1644273893760.mp3</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\gang.gif</ArtworkPath>
+      </Song>
+      <Song>
+        <Artist>Gangy Type Shit</Artist>
+        <Title>Marlo Block</Title>
+        <Mp3Path>C:\Users\Aidan\Music\music\PGF Nuk - Marlo Block _ Shot By @Lou Visualz.mp3</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\gang.gif</ArtworkPath>
+      </Song>
+      <Song>
+        <Artist>Gangy Type Shit</Artist>
+        <Title>No Auto Durk</Title>
+        <Mp3Path>C:\Users\Aidan\Music\music\Lil Durk  No Auto Durk  (G Herbo  Never Cared  Remix) (WSHH Exclusive - Official Music Video).mp3</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\gang.gif</ArtworkPath>
+      </Song>
+      <Song>
+        <Artist>Gangy Type Shit</Artist>
+        <Title>Grandson For President</Title>
+        <Mp3Path>C:\Users\Aidan\Music\music\King Von - Grandson for President (Remix) (Official Video).mp3</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\gang.gif</ArtworkPath>
+      </Song>
+      <Song>
+        <Artist>Gangy Type Shit</Artist>
+        <Title>PSA - Kay Flock</Title>
+        <Mp3Path>C:\Users\Aidan\Music\music\kay flock.mp3</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\gang.gif</ArtworkPath>
+      </Song>
+      <Song>
+        <Artist>Gangy Type Shit</Artist>
+        <Title>PSA Trimmed</Title>
+        <Mp3Path>C:\Users\Aidan\Music\music\kay flock-[AudioTrimmer.com].mp3</Mp3Path>
+        <ArtworkPath>C:\Users\Aidan\Pictures\gang.gif</ArtworkPath>
+      </Song>
+    </Songs>
+  </Artist>
+</ArrayOfArtist>
